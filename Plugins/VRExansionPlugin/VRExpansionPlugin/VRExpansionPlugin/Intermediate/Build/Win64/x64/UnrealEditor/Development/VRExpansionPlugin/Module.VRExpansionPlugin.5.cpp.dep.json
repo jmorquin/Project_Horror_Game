@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\module.vrexpansionplugin.5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\vrtrackedparentinterface.cpp",
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrtrackedparentinterface.h",
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrbpdatatypes.generated.h",
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.generated.h",
+            "c:\\users\\jules\\documents\\unreal projects\\project_horror_game\\plugins\\vrexansionplugin\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.1.cpp.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.2.cpp.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.3.cpp.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.4.cpp.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.5.cpp.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Default.rc2.res"
+/OUT:"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\UnrealEditor-VRExpansionPlugin.lib"

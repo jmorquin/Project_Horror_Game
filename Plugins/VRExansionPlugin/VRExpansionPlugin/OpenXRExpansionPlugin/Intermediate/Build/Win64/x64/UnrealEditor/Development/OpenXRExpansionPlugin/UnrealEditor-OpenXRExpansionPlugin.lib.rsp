@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenXRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Default.rc2.res"
+/OUT:"C:\Users\jules\Documents\Unreal Projects\Project_Horror_Game\Plugins\VRExansionPlugin\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\UnrealEditor-OpenXRExpansionPlugin.lib"
